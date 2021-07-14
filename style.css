@@ -4,8 +4,7 @@ header {
 
     height: 677px;
     width: 1519px;
-
-    animation: live 10s ease-in-out infinite;
+    background-color: rgb(46, 65, 235);
 }
 
 
@@ -27,12 +26,6 @@ body {
 
     margin-left: 156px;
     align-items: center;
-
-
-
-
-
-
 
 }
 
@@ -117,35 +110,6 @@ body {
 
 }
 
-@keyframes live {
-
-    0% {
-        background-color: #2D25A0;
-    }
-
-    25% {
-
-        background-color: #17202A;
-
-    }
-
-    50% {
-
-
-        background-color: #fa9075;
-    }
-
-    75% {
-
-        background-color: #c1ff71;
-    }
-
-    100% {
-
-        background-color: #055e4c;
-    }
-
-}
 
 .players-info {
 
