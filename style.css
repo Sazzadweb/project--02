@@ -315,9 +315,11 @@ body {
     border-radius: 20px;
     color: whitesmoke;
 }
-.button-02:hover{
-    background-color:blue;
+
+.button-02:hover {
+    background-color: blue;
 }
-.button-01:hover{
-                  background-color: rgb(212, 0, 255);
+
+.button-01:hover {
+    background-color: rgb(212, 0, 255);
 }
